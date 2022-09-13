@@ -1,7 +1,4 @@
-'''
-นายกิตติภพ เพชรบุรี
-6506021620016
-'''
+
 print('>>Program Check Palindrome<<\n')
 
 data = int(input('Enter integer number( 4 digit) : '))

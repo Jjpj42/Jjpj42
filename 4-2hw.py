@@ -1,7 +1,4 @@
-'''
-นายกิตติภพ เพชรบุรี
-6506021620016
-'''
+
 print('>>Program Find Maximum Value<<\n')
 
 num1 = int(input('Enter number 1 : '))

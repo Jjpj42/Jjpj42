@@ -1,6 +1,4 @@
-#Assignment 3
-#นาย กิตติภพ เพชรบุรี
-#6506021620016
+
 import math
 
 amount = int(input('Enter amount : '))

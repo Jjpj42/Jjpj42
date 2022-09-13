@@ -1,6 +1,4 @@
-#Assignment 2
-#นาย กิตติภพ เพชรบุรี
-#6506021620012
+
 
 money = float(input("Enter number money withdraw : "))
 

@@ -1,6 +1,4 @@
-#Assignment 2
-#นายกิตติภพ เพชรบุรี
-#6506021620016
+
 
 num = int(input("Enter integer number : "))
 
