@@ -1,0 +1,8 @@
+num1 = float (input("Enter float number1 : "))
+num2 = float (input("Enter float number2 : "))
+num3 = float (input("Enter float number3 : "))
+print()
+print ("Value number1 : ",num1)
+print ("Value number2 : ",num2)
+print ("Value number3 : ",num3)
+print ("Total all : ",num1+num2+num3)
